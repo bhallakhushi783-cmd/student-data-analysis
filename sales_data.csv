@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,City,Date
+1,Laptop,Electronics,50000,1,Delhi,2024-01-10
+2,Phone,Electronics,20000,2,Mumbai,2024-01-11
+3,Shirt,Clothing,1500,3,Delhi,2024-01-12
+4,Shoes,Clothing,3000,2,Jaipur,2024-01-13
+5,Tablet,Electronics,25000,1,Mumbai,2024-01-14
+6,Laptop,Electronics,52000,1,Delhi,2024-01-15
+7,Shirt,Clothing,1200,4,Jaipur,2024-01-16
+8,Phone,Electronics,18000,1,Delhi,2024-01-17
+9,Shoes,Clothing,2800,2,Mumbai,2024-01-18
+10,Tablet,Electronics,26000,1,Delhi,2024-01-19
