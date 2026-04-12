@@ -28,5 +28,5 @@ OrderID, Product, Category, Price, Quantity, City, Date
 2. Run the script:
 3. python dashboard.py
 4. ## Output
-5. <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a99323ee-dcdf-4818-bb50-e239492a280d" />
+5. <img width="1521" height="860" alt="image" src="https://github.com/user-attachments/assets/b3ea67b2-87f7-40b1-b72d-e3d781b63a2f" />
 
